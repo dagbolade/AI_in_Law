@@ -417,7 +417,7 @@ def show_market_insights(df_clean):
         - Focus on civil rather than criminal appeals
 
         **For Legal Education:**
-        - Train on witness management strategies
+        - Train on witness management strategies 
         - Study regional court preferences
         - Develop case strengthening methodologies
         """)
